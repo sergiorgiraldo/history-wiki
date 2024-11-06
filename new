@@ -1,0 +1,14 @@
+#!/bin/sh
+
+touch "tiddlers/$1.md"
+touch "tiddlers/$1.md.meta"
+
+echo "created: $(date +%Y%m%d%H%M%S%n)" >> "tiddlers/$1.md.meta"
+echo "modified: $(date +%Y%m%d%H%M%S%n)" >> "tiddlers/$1.md.meta"
+echo "tags: history" >> "tiddlers/$1.md.meta"
+echo "title: $1" >> "tiddlers/$1.md.meta"
+echo "type: text/markdown" >> "tiddlers/$1.md.meta"
+
+echo "# $1" >> "tiddlers/$1.md"
+
+code "tiddlers/$1.md"
