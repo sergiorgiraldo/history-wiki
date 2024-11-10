@@ -30,7 +30,7 @@ Roma Antiga foi uma civilização itálica que surgiu no século VIII a.C. Local
 - 43 a.C.: Segundo Triunvirato.
 - 31 a.C.: Eleito seu sucessor, Otaviano lutou contra os generais romanos para assumir o poder.
 - 30 a.C.: Derrotada em seu complô ao lado de Marco Antônio para derrotar Otaviano. Cleópatra cometeu suicídio e o Egipto foi anexado ao Império Romano.
-- 27 a.C.: Em 27 a.C., Otaviano recebeu o título de Augusto. Nos 41 anos de seu reinado, Otaviano acabou com um século de conflitos e iniciou um período de 200 anos de paz e prosperidade, a chamada Pax Romana. Data convencionada pelos historiadores como início do Império Romano.
+- 27 a.C.: Em 27 a.C., Otaviano recebeu o título de Augusto. Nos 41 anos de seu reinado, Otaviano acabou com um século de conflitos e iniciou um período de 200 anos de paz e prosperidade, a chamada Pax Romana. Data convencionada pelos historiadores como início do - [Imperio romano](imperio-romano) foi de 27 a.C a 395 d.C.
 - 1 d.C.: Jesus Cristo nasceu em Belém, na Judéia. Nesta época, o império tinha cinco milhões de habitantes.
 - 33: Morre Jesus Cristo em Jerusalém, crucificado.
 - 37: Com a morte do imperador Tibério, assumiu em seu lugar Calígula. Ele nomeou seu cavalo Incitato senador do império e mandou esculpir sua própria cabeça em todas as estátuas de deuses de Roma. Foi assassinado quatro anos depois.
