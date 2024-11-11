@@ -51,3 +51,32 @@ Roma Antiga foi uma civilização itálica que surgiu no século VIII a.C. Local
 - 455: Os vândalos, germanos que migraram para o sul, instalados no norte da África (actuais Líbia, Marrocos e Tunísia), saquearam Roma.
 - 476: Odoacro, líder dos bárbaros germânicos Hérulos derrubou Rômulo Augusto, o último imperador romano, então com 15 anos de idade. Os historiadores em geral consideram este evento como o fim do Império Romano do Ocidente e o início da Idade Média. O Império Romano do Oriente, com capital em Constantinopla, ainda duraria quase mil anos, até 1453.
 - 1453: Os turcos otomanos (povos de origem nómade da Ásia Central) invadiram Constantinopla (actual Istambul) e derrubaram o Império Romano do Oriente ou Império Bizantino.
+
+## Lideres da Republica
+
+| Líder | Início | Fim |
+|-------|---------|-----|
+| Lúcio Júnio Bruto | 509 a.C. | 509 a.C. |
+| Públio Valério Publícola | 509 a.C. | 504 a.C. |
+| Tito Lárcio (Primeiro Ditador) | 501 a.C. | 500 a.C. |
+| Aulo Postúmio Albo | 499 a.C. | 496 a.C. |
+| Espúrio Cássio | 502 a.C. | 486 a.C. |
+| Cincinato (Ditador) | 458 a.C. | 457 a.C. |
+| Ápio Cláudio (Decênviro) | 451 a.C. | 449 a.C. |
+| Marco Fúrio Camilo | 396 a.C. | 365 a.C. |
+| Quinto Fábio Máximo | 233 a.C. | 203 a.C. |
+| Cipião Africano | 205 a.C. | 184 a.C. |
+| Catão, o Velho | 195 a.C. | 149 a.C. |
+| Tibério Graco | 133 a.C. | 132 a.C. |
+| Caio Graco | 123 a.C. | 121 a.C. |
+| Caio Mário | 107 a.C. | 86 a.C. |
+| Sula | 82 a.C. | 79 a.C. |
+| Pompeu Magno | 70 a.C. | 48 a.C. |
+| Marco Licínio Crasso | 70 a.C. | 53 a.C. |
+| Júlio César | 59 a.C. | 44 a.C. |
+| Marco Antônio | 44 a.C. | 30 a.C. |
+| Marco Emílio Lépido | 44 a.C. | 36 a.C. |
+
+## Imperadores
+
+See [Imperio romano](imperio-romano)
