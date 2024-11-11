@@ -14,30 +14,6 @@ O assassinato de Cómodo em 192 desencadeou um período de conflito e declínio 
 
 O Império Romano foi uma das mais fortes potências económicas, políticas e militares do seu tempo. Foi o maior império da antiguidade Clássica e um dos maiores da História. No apogeu da sua extensão territorial exercia autoridade sobre mais de cinco milhões de quilómetros quadrados e uma população de mais de 70 milhões de pessoas, à época 21% da população mundial. A longevidade e extensão do império proporcionaram uma vasta influência na língua, cultura, religião, técnicas, arquitetura, filosofia, lei e formas de governo dos estados que lhe sucederam. Ao longo da Idade Média, foram feitas diversas tentativas de estabelecer sucessores do Império Romano, entre as quais o Império Latino e o Sacro Império Romano-Germânico. A expansão colonial europeia, entre os séculos XV e XX, difundiu a cultura romana a uma escala mundial, desempenhando um papel significativo na construção do mundo contemporâneo.
 
-## Lideres da Republica
-
-| Líder | Início | Fim |
-|-------|---------|-----|
-| Lúcio Júnio Bruto | 509 a.C. | 509 a.C. |
-| Públio Valério Publícola | 509 a.C. | 504 a.C. |
-| Tito Lárcio (Primeiro Ditador) | 501 a.C. | 500 a.C. |
-| Aulo Postúmio Albo | 499 a.C. | 496 a.C. |
-| Espúrio Cássio | 502 a.C. | 486 a.C. |
-| Cincinato (Ditador) | 458 a.C. | 457 a.C. |
-| Ápio Cláudio (Decênviro) | 451 a.C. | 449 a.C. |
-| Marco Fúrio Camilo | 396 a.C. | 365 a.C. |
-| Quinto Fábio Máximo | 233 a.C. | 203 a.C. |
-| Cipião Africano | 205 a.C. | 184 a.C. |
-| Catão, o Velho | 195 a.C. | 149 a.C. |
-| Tibério Graco | 133 a.C. | 132 a.C. |
-| Caio Graco | 123 a.C. | 121 a.C. |
-| Caio Mário | 107 a.C. | 86 a.C. |
-| Sula | 82 a.C. | 79 a.C. |
-| Pompeu Magno | 70 a.C. | 48 a.C. |
-| Marco Licínio Crasso | 70 a.C. | 53 a.C. |
-| Júlio César | 59 a.C. | 44 a.C. |
-| Marco Antônio | 44 a.C. | 30 a.C. |
-| Marco Emílio Lépido | 44 a.C. | 36 a.C. |
 
 ## Imperadores 
 
