@@ -1,5 +1,9 @@
 # History wiki
 
-- run the wiki with `./run`
-- create a new page with `.new {name of the page}`
+- this runs on Jekyll and it is published as GH pages
+
+## commands
+
+1. `./run`
+2. `./new {name of the page}`
 

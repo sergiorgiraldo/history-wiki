@@ -1,5 +1,9 @@
 # timeline
 
+| 2000 - Grecia
+
+| 800 - Polis gregas
+
 | 735 - Civilizacao romana - inicio
 
 | 
