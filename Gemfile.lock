@@ -272,7 +272,7 @@ PLATFORMS
   arm64-darwin-23
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 232)
 
 BUNDLED WITH
    2.3.26
