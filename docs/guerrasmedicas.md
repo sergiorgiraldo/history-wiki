@@ -1,6 +1,6 @@
 # Guerras Médicas
 
-As Guerras Médicas, em que batalharam gregos contra persas, ocorreu na Grécia antiga no século V a.C. e é também conhecida como Guerras Persas, Pérsicas, Medas, Greco-Persas ou Guerras Greco- Pérsicas.
+As Guerras Médicas, em que batalharam gregos contra [persas](persia), ocorreu na Grécia antiga no século V a.C. e é também conhecida como Guerras Persas, Pérsicas, Medas, Greco-Persas ou Guerras Greco- Pérsicas.
 
 A causa da guerra se deveu ao fato de que os persas estavam expandindo o seu território, a conquistar colônias gregas e dominavam, assim, o comércio do Mar Egeu. Os gregos não aceitavam essa hegemonia e entraram na disputa pelas terras da Ásia Menor.
 
