@@ -15,5 +15,5 @@ Aproximadamente três séculos após o Colapso da Idade do Bronze da Grécia mic
 | Pré-homérico | 2000−1100 a.C |Penetração de povos indo-europeus na Grécia: aqueus (2 000-1 200 a.C.), eólios (1 700 a.C.) e Jônios (1 700 a.C.); Civilização Minoica continua a prosperar (3 000 - 1 400 a.C.) e a Civilização Micênica é formada (1 600-1 200 a.C.); dóricos invadem a Hélade no final do período (1 200 a.C.)|
 |Homérico | 1100−800 a.C. |Ruralização, ausência de escrita e formação dos genos; período da criação das obras de Homero, Ilíada e Odisseia.|
 |Arcaico | 800−500 a.C. |Formação da pólis, a colonização grega, o aparecimento do alfabeto fonético além de progresso econômico com a expansão da divisão do trabalho, do comércio e da indústria.|
-|Grécia Clássica | 500−338 a.C. |Bipolarização da Grécia entre Esparta (com a Liga do Peloponeso) e Atenas (com a Liga de Delos). Ocorrência das Guerras Médicas e da Guerra do Peloponeso, bem como da hegemonia de Tebas no fim do período.|
+|Grécia Clássica | 500−338 a.C. |Bipolarização da Grécia entre Esparta (com a Liga do Peloponeso) e Atenas (com a Liga de Delos). Ocorrência das [Guerras Médicas](guerrasmedicas) e da [Guerra do Peloponeso](guerrapeloponeso), bem como da hegemonia de Tebas no fim do período.|
 |Helenístico | 338−136 a.C. |Crise da pólis, conquista do Império Aquemênida e expansão cultural helenística. |
