@@ -1,6 +1,10 @@
 # Pérsia 
 
+#Resumo
+
 A Pérsia se localizava, principalmente, ao leste da Mesopotâmia, no atual território ocupado pelo Irã, que era chamado de Pérsia até 1935, quando mudou seu nome.
+
+O Império Persa, também conhecido como o Império Aquemênida, existiu de 550 a.C. a 330 a.C.. Foi fundado por Ciro, o Grande, e atingiu seu auge sob Dario I e Xerxes I. O império acabou sendo conquistado por Alexandre, o Grande, em 330 a.C.
 
 ## Império Persa
 
