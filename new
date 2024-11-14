@@ -4,6 +4,6 @@ touch "docs/$1.md"
 
 echo "# $1" >> "docs/$1.md"
 
-echo "\n<a href='$1'>$1</a><br/><br/>" >> "docs/index.html"
+echo "\n<a href='$1'>$1</a><br/>" >> "docs/index.html"
 
 code "docs/$1.md"
