@@ -6,7 +6,7 @@ github_username:  sergiorgiraldo
 
 markdown: kramdown
 
-theme: minima
+remote_theme: minima
 plugins:
   - jekyll-remote-theme 
   - jekyll-feed
