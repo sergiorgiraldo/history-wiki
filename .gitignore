@@ -2,4 +2,4 @@ _site
 .jekyll-cache
 .sass-cache
 .vscode
-# _config.yml
+_config.yml

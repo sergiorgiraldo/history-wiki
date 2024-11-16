@@ -2,9 +2,13 @@
 
 | 2000 - Grecia
 
+| 1894 - Babilonia
+
 | 800 - Polis gregas
 
 | 735 - Civilizacao romana - inicio
+
+| 538 - Fim da Babilonia
 
 | 
 
