@@ -6,4 +6,3 @@
 
 1. `./run`
 2. `./new {name of the page}`
-
