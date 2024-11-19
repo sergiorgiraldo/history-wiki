@@ -1,5 +1,7 @@
 # Timeline
 
+| 300.000 - Egypt
+
 | 2000 - Grecia
 
 | 1894 - Babilonia
