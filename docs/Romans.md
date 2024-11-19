@@ -17,7 +17,7 @@ Roma Antiga foi uma civilização itálica que surgiu no século VIII a.C. Local
 - 326 a.C.: Surgiram as primeiras grandes obras: o Circo Máximo; o primeiro aqueduto, que distribuía água para toda a cidade, e a Via Ápia, uma grande estrada que permitia a movimentação de tropas.
 - 275 a.C.: Começou o período de conquistas. Roma dominou as cidades gregas do sul da península Itálica, dominando-a por inteiro.
 - 218 a.C.: O maior inimigo de Roma, a cidade de [Cartago](cartago), do norte da África, invadiu a península Itálica. O comandante Aníbal venceu três grandes batalhas.
-- 149 a.C.: Depois de ocupar a Península Ibérica e derrotar Aníbal, Roma destruiu [Cartago](cartago). A cidade ficou em ruínas. No mesmo ano, as tropas romanas conquistaram a Grécia. Em 133 a.C., assumiu o controle total do mar Mediterrâneo.
+- 149 a.C.: Depois de ocupar a Península Ibérica e derrotar Aníbal, Roma destruiu [Cartago](cartago). A cidade ficou em ruínas. No mesmo ano, as tropas romanas conquistaram a [Grécia](grecia). Em 133 a.C., assumiu o controle total do mar Mediterrâneo.
 - 104 a.C.: Consulado de Caio Mário.
 - 81 a.C.: Ditadura de Sila.
 - 73 a.C.: O gladiador Espártaco liderou uma rebelião de escravos, que construíram uma vila aos pés do monte Vesúvio. Ele venceu o exército romano sete vezes, antes de ser derrotado.

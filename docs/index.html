@@ -1,43 +1,66 @@
-<style>
-    body,a, h1{
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
-    body{
-        margin-top: 2%;
-        margin-left: 3%;
-    }
-    h1{
-        font-size: 5em;
-    }
-    a, a:visited, a:hover {
-        font-size: 3.5em;
-        color: navy;
-        text-decoration: none;
-    }
-    a:hover{
-        color: blue;
-        text-decoration: underline;
-    }
-</style>
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>History wiki</title>
+		<style>
+			body,
+			a,
+			h1 {
+				font-family: Verdana, Geneva, Tahoma, sans-serif;
+			}
+			body {
+				margin-top: 2%;
+				margin-left: 3%;
+			}
+			h1 {
+				font-size: 3.5em;
+			}
+			a,
+			a:visited,
+			a:hover {
+				font-size: 1.5em;
+				color: navy;
+				text-decoration: none;
+			}
+			a:hover {
+				color: blue;
+				text-decoration: underline;
+			}
+			.container {
+				display: flex;
+				align-items: center; /* Align items vertically in the center */
+			}
 
-<h1>History wiki</h1>
+			.image {
+				margin-right: 20px; /* Space between the image and the list */
+			}
 
-<a href="timeline">timeline</a><br/>
-
-<a href="cartago">cartago</a><br/>
-
-<a href="imperioromano">imperio romano</a><br/>
-
-<a href="Romans">romans</a><br/>
-
-<a href='grecia'>grecia</a><br/>
-
-<a href='guerrapeloponeso'>guerra do peloponeso</a><br/>
-
-<a href='guerrasmedicas'>guerras medicas</a><br/>
-
-<a href='persia'>persia</a><br/>
-
-<a href='babilonia'>babilonia</a><br/>
-
-<a href='alexandre_o_grande'>alexandre_o_grande</a><br/>
+			.link-list {
+				list-style-type: none; /* Remove default list styling */
+				padding: 0;
+				margin: 0;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>History wiki</h1>
+		<div class="container">
+			<img src="mindmap.png" alt="mindmap" class="image"/>
+			<ul class="link-list">
+				<li><a href="timeline">timeline</a></li>
+				<li><a href="cartago">cartago</a></li>
+				<li><a href="imperioromano">imperio romano</a></li>
+				<li><a href="Romans">romans</a></li>
+				<li><a href="grecia">grecia</a></li>
+				<li><a href="guerrapeloponeso">guerra do peloponeso</a></li>
+				<li><a href="guerrasmedicas">guerras medicas</a></li>
+				<li><a href="persia">persia</a></li>
+				<li><a href="babilonia">babilonia</a></li>
+				<li><a href="alexandre_o_grande">alexandre_o_grande</a></li>
+				<!--NEXT-->
+			</ul>
+		</div>
+	</body>
+</html>
