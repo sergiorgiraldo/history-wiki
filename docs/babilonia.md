@@ -8,7 +8,7 @@ Babilônia foi uma antiga área cultural e estatal de língua acadiana, localiza
 
 Costumava envolver-se em rivalidade com o Estado mais antigo da Assíria, ao norte, e Elam, a leste, no antigo Irã. A Babilônia tornou-se brevemente a principal potência na região depois que Hamurabi criou um império de curta duração, sucedendo o Império Acadiano anterior, a Terceira Dinastia de Ur e o Império Assírio Antigo. O Império Babilônico, no entanto, rapidamente desmoronou após a morte de Hamurabi e reverteu a um pequeno reino.
 
-![mapa](babiloniamapa.png)
+![mapa](images/babiloniamapa.png)
 
 ## Reino de Hamurabi
 

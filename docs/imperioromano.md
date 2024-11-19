@@ -2,7 +2,7 @@
 
 - Imperio romano foi de 27 a.C a 395 d.C
 
-- ![Mapa](Roman_Empire_Trajan_117AD.png)
+![Mapa](images/Roman_Empire_Trajan_117AD.png)
 
 ## Resumo
 

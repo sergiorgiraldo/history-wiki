@@ -10,4 +10,4 @@ O pai de Alexandre foi assassinado quando tinha 20 anos e, nessa idade, subiu ao
 
 Buscando alcançar os "confins do mundo e do Grande Mar Exterior", invadiu a Índia em 326 a.C., mas foi forçado a voltar pela demanda de suas tropas. Alexandre morreu na Babilônia em 323 a.C., a cidade que planejava estabelecer como sua capital, sem executar uma série de campanhas planejadas que teria começado com uma invasão da Arábia.
 
-¸![mapa](alexandregrandemapa.png)
+¸![mapa](images/alexandregrandemapa.png)

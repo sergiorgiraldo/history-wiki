@@ -14,5 +14,5 @@ Quem deu início ao Império Persa foi Ciro, o Grande (560 a.C – 529 a.C). Por
 
 Este foi o responsável por grandes construções, principalmente a Estrada Real, cujo objetivo era manter a hegemonia dos povos conquistados. Seguiu-se Dario I, Xerxes I, Artaxexes I até o último imperador, Dario III, derrotado por [Alexandre, o Grande](alexandre_o_grande).
 
-![Mapa](persiamapa.jpg)
+![Mapa](images/persiamapa.jpg)
 
