@@ -6,11 +6,15 @@
 
 | 1894 - Babilonia
 
+| 1200 - Fenicios
+
 | 800 - Polis gregas
 
 | 735 - Civilizacao romana - inicio
 
-| 538 - Fim da Babilonia
+| 539 - Fim dos Fenicia
+
+| 539 - Fim da Babilonia
 
 | 
 
