@@ -2,6 +2,8 @@
 
 | 300.000 - Egypt
 
+| 10.000 - Mesopotamia
+
 | 2000 - Grecia
 
 | 1894 - Babilonia
@@ -16,7 +18,7 @@
 
 | 539 - Fim da Babilonia
 
-| 
+| 539 - Fim da Mesopotamia
 
 | 264 - Ate 146, Guerras Punicas Roma X Cartago
 

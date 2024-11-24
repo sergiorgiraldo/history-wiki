@@ -1,6 +1,5 @@
 _site
 .jekyll-cache
 .sass-cache
-.vscode
 _config.yml
 __pycache__
