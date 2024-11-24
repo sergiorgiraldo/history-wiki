@@ -13,7 +13,7 @@ Sua influência estendeu-se por todo o Mediterrâneo, facilitando o comércio e 
 - A relação dos fenícios com os [romanos](imperioromano), por outro lado, envolveu eventos notáveis, como as [Guerras Púnicas(cartago)], que tiveram um impacto duradouro na região do Mediterrâneo, especialmente na ascensão de Roma como uma potência regional.
     - Os fenícios tiveram um papel fundamental na fundação de [Cartago](cartago). Por volta de 814 a.C., os fenícios, conhecidos por suas habilidades marítimas e comerciais, estabeleceram Cartago como uma colônia no norte da África12. Com o tempo, Cartago cresceu e se tornou uma potência comercial e militar independente, rivalizando com outras grandes civilizações da época, incluindo Roma3
 
-![mapa](images/feniciamapa.png)
+![mapa](images/feniciosmapa.jpg)
 
 ## Apogeu: 1200–800 a.C.
 
