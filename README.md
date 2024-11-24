@@ -5,5 +5,5 @@
 
 ## commands
 
-1. `./run.sh`
-2. `./new.sh {name of the page}`
+1. `./run`
+2. `./new {name of the page}`

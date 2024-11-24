@@ -4,7 +4,11 @@
 
 | 10.000 - Mesopotamia
 
+| 5500 - Sumer
+
 | 2000 - Grecia
+
+| 1800- Fim Sumeria
 
 | 1894 - Babilonia
 
@@ -22,17 +26,11 @@
 
 | 264 - Ate 146, Guerras Punicas Roma X Cartago
 
-| 
-
 | 27 - Imperio romano - inicio
 
-| 
+|
 
-| 
-
-| 
-
-| 
+|
 
 | ↑ a.C - 0 - d.C ↓
 
@@ -40,27 +38,7 @@
 
 | 
 
-| 
-
-| 
-
-| 
-
-| 
-
-| 
-
-| 
-
-| 
-
-| 
-
-| 395 - Imperio romano - termino
-
-| 
-
-| 
+| 395 - Imperio romano - termino 
 
 | 476 - Civilizacao romana - termino
 
