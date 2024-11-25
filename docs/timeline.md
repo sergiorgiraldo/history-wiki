@@ -2,9 +2,13 @@
 
 | 300.000 - Egypt
 
+| 350.000 - 200.000 - Homo sapiens sapiens
+
 | 10.000 - Mesopotamia
 
-| 5500 - Sumer
+| 5500 - Sumeria
+
+| 3100 - Egito antigo
 
 | 2000 - Grecia
 

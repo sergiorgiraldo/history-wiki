@@ -9,7 +9,7 @@ def extract_links(folder):
     with open(folder, "r", encoding="utf-8") as file:
         content = file.read()
         
-        regex = re.compile(r"(?<!\!)\[([^\]]+)\]\(([^)]+)\)") # markdown links: [text](url)
+        regex = re.compile(r"(?<!\!)\[([^\]]+)\]\(([^)]+)\)") # markdown links: [text](url), ignore image links
         matches = regex.findall(content)
 
         for match in matches:
