@@ -1,8 +1,12 @@
 # Timeline
 
+| 1.800.000 - 500.000 - Arcaic humans in Africa 
+
 | 300.000 - Egypt
 
 | 350.000 - 200.000 - Homo sapiens sapiens
+
+| 73000 - 55000 - Indian subcontinent
 
 | 10.000 - Mesopotamia
 
