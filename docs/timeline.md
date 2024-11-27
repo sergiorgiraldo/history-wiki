@@ -50,6 +50,8 @@
 
 | 476 - Civilizacao romana - termino
 
-| 
+| 610 - Islam - Prophet Muhammad revelations
+
+| 632 - Islam - Prophet Muhammad dies
 
 
