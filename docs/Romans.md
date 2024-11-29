@@ -1,6 +1,6 @@
 # Roma
 
-- Civilizacao romana foi de 753 a.C. — 476 d.C. 
+- Civilizacao romana foi de 753 a.C. — 476 d.C.
 - [Imperio romano](imperioromano) foi de 27 a.C a 395 d.C
 
 ## Resumo

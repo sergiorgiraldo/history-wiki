@@ -20,6 +20,6 @@ Hamurabi virou seus exércitos disciplinados para o leste e invadiu a região qu
 
 ## Domínio aquemênida e queda
 
- - A Babilônia foi absorvida pelo [Império Aquemênida](persia) em 539 a.C. 
+- A Babilônia foi absorvida pelo [Império Aquemênida](persia) em 539 a.C.
 
- - [Alexandre, o Grande](alexandre_o_grande), conquistou a Babilônia em 333 a.C. para os [gregos](grecia)
+- [Alexandre, o Grande](alexandre_o_grande), conquistou a Babilônia em 333 a.C. para os [gregos](grecia)

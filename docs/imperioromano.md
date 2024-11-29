@@ -14,8 +14,7 @@ O assassinato de Cómodo em 192 desencadeou um período de conflito e declínio 
 
 O Império Romano foi uma das mais fortes potências económicas, políticas e militares do seu tempo. Foi o maior império da antiguidade Clássica e um dos maiores da História. No apogeu da sua extensão territorial exercia autoridade sobre mais de cinco milhões de quilómetros quadrados e uma população de mais de 70 milhões de pessoas, à época 21% da população mundial. A longevidade e extensão do império proporcionaram uma vasta influência na língua, cultura, religião, técnicas, arquitetura, filosofia, lei e formas de governo dos estados que lhe sucederam. Ao longo da Idade Média, foram feitas diversas tentativas de estabelecer sucessores do Império Romano, entre as quais o Império Latino e o Sacro Império Romano-Germânico. A expansão colonial europeia, entre os séculos XV e XX, difundiu a cultura romana a uma escala mundial, desempenhando um papel significativo na construção do mundo contemporâneo.
 
-
-## Imperadores 
+## Imperadores
 
 | Imperador | Início | Fim |
 |-----------|--------|-----|

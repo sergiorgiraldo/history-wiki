@@ -2,7 +2,7 @@
 
 - 2 500 a.C. — 612 a.C
 - Os descendentes dos assírios ainda habitam a região nos dias de hoje, formando uma minoria cristã no Iraque
-- Os assírios são considerados como o primeiro povo a ter um exército organizado e hierarquizado. Foi através da violência que impunham as regras assírias sobre os conquistados e cobravam os impostos. 
+- Os assírios são considerados como o primeiro povo a ter um exército organizado e hierarquizado. Foi através da violência que impunham as regras assírias sobre os conquistados e cobravam os impostos.
 
 ## Resumo
 
