@@ -1,6 +1,7 @@
 # Fenicia
 
-1200 a.C.-539 a.C.
+- 1200 a.C.-539 a.C.
+- Criaram o primeiro alfabeto fonético, que se tornou a base para muitos outros alfabetos, incluindo o grego e, eventualmente, o latino
 
 ## Resumo
 

@@ -1,6 +1,7 @@
 # Sumer
 
-c. 5500 – c. 1800 BC
+- c. 5500 – c. 1800 BC
+- Created cuneiform writing: a way of recording land sales, negotiations, treaties and even, later, marketing for the emperor or sovereign
 
 ## Summary
 

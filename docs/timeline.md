@@ -14,6 +14,8 @@
 
 | 3100 - Egito antigo
 
+| 2500 - Assiria
+
 | 2000 - Grecia
 
 | 1800- Fim Sumeria
@@ -25,6 +27,8 @@
 | 800 - Polis gregas
 
 | 735 - Civilizacao romana - inicio
+
+| 612 - Fim da Assiria
 
 | 539 - Fim dos Fenicia
 
