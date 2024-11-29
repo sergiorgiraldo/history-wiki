@@ -47,7 +47,7 @@
 	<body>
 		<h1>History wiki</h1>
 		<div class="container">
-			<img src="images/mindmap.png" alt="mindmap" class="image" />
+			<img src="images/mindmap.png" alt="mindmap" class="image NO-CACHE" />
 			<ul class="link-list">
 				<li><a href="timeline">timeline (mine)</a></li>
 				<li><a href="t.html">timeline (full)</a></li>
@@ -81,3 +81,11 @@
 		</div>
 	</body>
 </html>
+
+<script>
+	var nods = document.getElementsByClassName('NO-CACHE');
+	for (var i = 0; i < nods.length; i++)
+	{
+		nods[i].attributes['src'].value += "?a=" + Math.random();
+	}
+</script>
