@@ -1,6 +1,6 @@
 # Timeline
 
-| 1.800.000 - 500.000 - Arcaic humans in Africa 
+| 1.800.000 - 500.000 - Arcaic humans in Africa
 
 | 300.000 - Egypt
 
@@ -40,22 +40,12 @@
 
 | 27 - Imperio romano - inicio
 
-|
-
-|
-
 | ↑ a.C - 0 - d.C ↓
 
-| 
-
-| 
-
-| 395 - Imperio romano - termino 
+| 395 - Imperio romano - termino
 
 | 476 - Civilizacao romana - termino
 
 | 610 - Islam - Prophet Muhammad revelations
 
 | 632 - Islam - Prophet Muhammad dies
-
-
