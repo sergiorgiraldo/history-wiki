@@ -42,6 +42,8 @@
 
 | ↑ a.C - 0 - d.C ↓
 
+| 325 - Cristianismo - Conselho de Niceia
+
 | 395 - Imperio romano - termino
 
 | 476 - Civilizacao romana - termino
@@ -49,3 +51,7 @@
 | 610 - Islam - Prophet Muhammad revelations
 
 | 632 - Islam - Prophet Muhammad dies
+
+| 1095 - Cruzadas
+
+| 1517 - Lutero e Protestantismo
