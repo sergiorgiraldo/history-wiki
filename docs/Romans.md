@@ -77,6 +77,16 @@ Roma Antiga foi uma civilização itálica que surgiu no século VIII a.C. Local
 | Marco Antônio | 44 a.C. | 30 a.C. |
 | Marco Emílio Lépido | 44 a.C. | 36 a.C. |
 
+## Julio Cesar
+
+Caio Júlio César foi um patrício, líder militar e político romano. Desempenhou um papel crítico na transformação da República Romana no Império Romano. Muito da historiografia das campanhas militares de César foi escrita por ele próprio ou por fontes contemporâneas dele, a maioria, cartas e discursos de Cícero e manuscritos de Salústio. Sua biografia foi posteriormente melhor escrita pelos historiadores Suetônio e Plutarco. César é considerado por muitos acadêmicos como um dos maiores comandantes militares da história.
+
+Nascido em uma família patrícia de pequena influência, César foi galgando seu lugar na vida pública romana. Em 60 a.C., ele e os políticos Crasso e Pompeu formaram uma aliança (o Primeiro Triunvirato) que acabou dominando a política romana por anos. Suas tentativas de manter-se no poder através de táticas populistas enfrentavam resistência das classes aristocráticas conservadoras do senado romano, liderados por homens como Catão e Cícero. César conquistou boa reputação militar e dinheiro durante as Guerras Gálicas (58–50 a.C.), expandindo os domínios romanos para o norte até o Canal da Mancha, anexando a Gália (atual França), e no leste até o Reno (dentro da atual Alemanha). Ele também se tornou o primeiro general romano a lançar uma incursão militar na Britânia.
+
+Suas conquistas lhe deram enorme poderio militar e respeito, que acabou ameaçando a posição do seu companheiro político, e agora rival, Pompeu Magno. Este último havia mudado de lado, após a morte de Crasso em 53 a.C., e agora apoiava a ala conservadora do senado. Com a guerra na Gália encerrada, os senadores em Roma exigiram que César dispensasse seu exército e retornasse à capital. Recusou-se a obedecer e em 49 a.C. cruzou o rio Rubicão com suas legiões, entrando armado na Itália (em violação da lei romana que impedia um general de marchar em Roma). Isso precipitou uma violenta guerra civil, que terminou com uma vitória de César, com ele assumindo poder total na República.
+
+Em 49 a.C., César assumiu o comando em Roma como um ditador absoluto. Ele iniciou então uma série de reformas sociais e políticas, incluindo a criação do calendário juliano. Continuou a centralizar o poder e a burocracia da República pelos anos seguintes, dando a si mesmo grande autoridade. Porém a ferida da guerra civil ainda estava aberta e a oposição política em Roma começou a conspirar para derrubá-lo do poder. As conspirações culminaram nos Idos de Março em 44 a.C. com o assassinato de César por um grupo de senadores aristocratas liderados por Marco Júnio Bruto. Sua morte precipitaria uma nova guerra civil pelos espólios do poder e assim o governo constitucional republicano nunca foi totalmente restaurado. O seu sobrinho-neto, Caio Otaviano, foi feito seu herdeiro em testamento. Em 27 a.C., o jovem passaria para a história como Augusto, o primeiro [imperador romano](imperioromano), adotando o título de César e reivindicando para si o seu legado político.
+
 ## Imperadores
 
 See [Imperio romano](imperioromano)
