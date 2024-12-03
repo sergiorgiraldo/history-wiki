@@ -73,7 +73,7 @@ Roma Antiga foi uma civilização itálica que surgiu no século VIII a.C. Local
 | Sula | 82 a.C. | 79 a.C. |
 | Pompeu Magno | 70 a.C. | 48 a.C. |
 | Marco Licínio Crasso | 70 a.C. | 53 a.C. |
-| Júlio César | 59 a.C. | 44 a.C. |
+| [Júlio César](#julio-cesar) | 59 a.C. | 44 a.C. |
 | Marco Antônio | 44 a.C. | 30 a.C. |
 | Marco Emílio Lépido | 44 a.C. | 36 a.C. |
 

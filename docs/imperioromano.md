@@ -18,7 +18,7 @@ O Império Romano foi uma das mais fortes potências económicas, políticas e m
 
 | Imperador | Início | Fim |
 |-----------|--------|-----|
-| Otávio Augusto | 27 a.C. | 14 d.C. |
+| [Otávio Augusto](#augusto) | 27 a.C. | 14 d.C. |
 | Tibério | 14 | 37 |
 | Calígula | 37 | 41 |
 | Cláudio | 41 | 54 |
@@ -93,3 +93,15 @@ O Império Romano foi uma das mais fortes potências económicas, políticas e m
 | Glicério [Ocidente] | 473 | 474 |
 | Júlio Nepos [Ocidente] | 474 | 475 |
 | Rômulo Augústulo [Ocidente] | 475 | 476 |
+
+## Augusto
+
+Augusto (Roma, 23 de setembro de 63 a.C. – Nuvlana, 19 de agosto de 14) foi o fundador do Império Romano e seu primeiro imperador, governando de 27 a.C. até sua morte em 14 d.C. Nascido Caio Otávio, pertenceu a um rico e antigo ramo equestre da família plebeia dos Otávios. Depois do assassinato de seu tio-avô Júlio César em 44 a.C., o testamento de César nomeou Otávio como seu filho adotivo e herdeiro. Junto com Marco Antônio e Lépido, formou o Segundo Triunvirato e derrotou os assassinos de César. Após a vitória na Batalha de Filipos, os três dividiram a República Romana entre si, passando a governar como ditadores militares. O triunvirato foi posteriormente posto de lado sob as ambições conflitantes de seus membros: Lépido foi exilado e despojado de sua posição e Marco Antônio cometeu suicídio após sua derrota na Batalha de Áccio em 31 a.C..
+
+Após o fim do Segundo Triunvirato, Augusto restaurou a fachada externa de república livre, com o poder governamental investido no senado romano, os magistrados executivos e as assembleias legislativas. Porém, na realidade, manteve seu poder autocrático sobre a República como um ditador militar. Por lei, reteve um conjunto de poderes atribuídos vitaliciamente pelo senado, incluindo o comando militar supremo e aqueles de tribuno e censor. Criou o primeiro programa de previdência pública do mundo, assegurando a lealdade do exército, tornando-se algo que nenhum romano havia sido antes: o comandante em chefe de todas as Forças Armadas. Rejeitou os títulos monárquicos e em vez disso denominou-se "Primeiro Cidadão do Estado" (Princeps Civitatis). O quadro constitucional resultante tornou-se conhecido como o Principado, a primeira fase do Império Romano.
+
+O reinado de Augusto iniciou uma era de relativa paz conhecida como Pax Romana ("Paz Romana"). Apesar de contínuas guerras de expansão nas fronteiras imperiais e uma guerra civil de um ano devido à sucessão imperial, o mundo romano esteve praticamente livre de conflitos em larga escala por mais de dois séculos. Ele dramaticamente aumentou o império, anexando Egito, Dalmácia, Panônia, Nórica e Récia, expandindo as possessões da África e Germânia e completando a conquista da Hispânia. Além das fronteiras, protegeu o Império com uma região tampão composta por Estados clientes e fez paz com o Império Parta por vias diplomáticas. Reformou o sistema romano de tributação, desenvolveu redes de estradas com um sistema de correio oficial, estabeleceu um exército permanente e a guarda pretoriana, criou serviços oficiais de policiais e bombeiros para Roma e reconstruiu grande parte da cidade durante seu reinado.
+
+Augusto morreu em 14 d.C., com 75 anos. Pode ter morrido de causas naturais, embora tenha havido rumores não confirmados de que sua esposa Lívia Drusa o teria envenenado. Foi sucedido como imperador por seu filho adotivo Tibério (também enteado e, anteriormente, cunhado). Com 41 anos, foi o soberano com maior tempo de mandato em Roma.
+
+[![mapa](images/Roman-Empire-39BCmapa.svg)](images/Roman-Empire-39BCmapa.svg)
