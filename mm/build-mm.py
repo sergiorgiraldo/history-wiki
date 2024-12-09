@@ -30,7 +30,12 @@ def build_mindmap(folder):
 
             for link in links:
                 link_name = os.path.splitext(os.path.basename(link))[0]
-                map.edge(node_name, link_name)
+                if "#" in link_name:
+                    if not link_name.startswith("#"):
+                        map.edge(node_name, link_name.split("#")[0])
+                else:
+                    if not (link.endswith("png") or link.endswith("jpg") or link.endswith("svg")):
+                        map.edge(node_name, link_name)
 
     map.render("mindmap", format="png", cleanup=True)
 
