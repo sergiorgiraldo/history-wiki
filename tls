@@ -1,0 +1,8 @@
+#!/bin/sh
+
+for file in ./timelines/*-tl.mw; do
+    filename=$(basename "$file")
+    base_name="${filename%-tl.mw}"
+    
+    mw -o timeline "./timelines/${base_name}-tl.mw" -d "docs/gantt-${base_name}.html"
+done
