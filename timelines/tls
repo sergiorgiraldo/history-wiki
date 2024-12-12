@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for file in ./timelines/*-tl.mw; do
+for file in ./*-tl.mw; do
     filename=$(basename "$file")
     base_name="${filename%-tl.mw}"
     
