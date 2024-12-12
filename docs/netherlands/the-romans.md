@@ -10,7 +10,7 @@ The Rhine hosts many influential cities, such as Basel, Cologne, Bonn and Utrech
 
 Around 50 BCE, the Roman republic was the superpower around the Mediterranean. They had most likely been in contact with lowlander culture through trade on the Rhine river. Ancient Roman pottery has been found in Friesland for example which implies it was carried there by that river.
 
-In 58 BCE, Julius Caesar commenced what would become eight years fighting wars of conquest and enslavement of people known as the Gauls. It is difficult to pinpoint who these Gauls were as in Rome’s opinion, ‘Gaul’ meant pretty much everything in today’s France, lowlands as well as much of Germany. Caesar divided Gaul into three parts, Belgica, Celtica and Aquitania.
+In 58 BCE, [Julius Caesar](../Romans#julio-cesar) commenced what would become eight years fighting wars of conquest and enslavement of people known as the Gauls. It is difficult to pinpoint who these Gauls were as in Rome’s opinion, ‘Gaul’ meant pretty much everything in today’s France, lowlands as well as much of Germany. Caesar divided Gaul into three parts, Belgica, Celtica and Aquitania.
 
 | ![map](images/Gaulmap.jpg) |
 | *Map of the different tribes in Europee* |
