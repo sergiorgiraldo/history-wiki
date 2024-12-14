@@ -2,7 +2,7 @@
 
 | [podcast](https://www.republicofamsterdamradio.com/historyofthenetherlands)
 
-| [provinces today](![p](images/provinces-today.jpeg))
+| [provinces today](images/provinces-today.jpeg)
 
 [The Ice Age](the-ice-age)
 
