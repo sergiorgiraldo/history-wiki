@@ -29,5 +29,7 @@ Baldwin Iron Arm, a man with a fantastic name, kidnapped the daughter of the Kin
 
 For now, however, by the end of the 9th century Charlemagne’s empire was split into East Francia, West Francia, and the lands in between which would became known as Lotharingia. East Francia was essentially today’s Germany, West Francia today’s France, and Lotharingia contained in its northern half our humble, little lowlands.
 
-From now on, the identity to emerge in the lowlands amongst individuals and groups will be impacted by the ebb and flow of power between the two larger states on its flanks - East and West Francia, France and Germany. 
+| ![europe](images/europe-900.png) |
+| *Europe by 900 CE* |
 
+From now on, the identity to emerge in the lowlands amongst individuals and groups will be impacted by the ebb and flow of power between the two larger states on its flanks - East and West Francia, France and Germany.
