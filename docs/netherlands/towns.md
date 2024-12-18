@@ -34,7 +34,7 @@ So, simply put, the ruling nobility started to sell privileges to people in town
 | ![map](images/Huy_castle_Chastillon.jpeg) |
 | *The town of Huy, as drawn c. 1600 by Claude Chastillon, bears the first record of city rights granted in the lowlands. This image provides a clear example of how these towns would develop. The castle, built originally in the 9th C, provides a focal point for commerce and authority, while the city walls provide protection, and help to establish a sense of independent identity.* |
 
-The impact of the crusades
+## The impact of the crusades
 
 The great culmination of the Church’s integration within all levels of Western European society was the onset of the Crusades, which started in the 1090s. Following Pope Urban II’s rallying cry for true Christians to go and help the Byzantine Emperor take Jerusalem back from the Seljuk Turks, various groups began to mobilise. Surprisingly, some of the first and most celebrated emerged out of the lowlands. Peter the Hermit infamously led the people’s crusade, which was composed mainly of commoners, and which set off before the first, organised military crusade.
 
