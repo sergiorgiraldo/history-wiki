@@ -10,10 +10,12 @@
 
 [Illuminating the Dark Ages](dark-ages)
 
-[Charles, the Greate](charles)
+[Charles, the Great](charles)
 
 [Welcome to Family Feudalism](feudalism)
 
 [Ploughin' Forward](farming-revolution)
 
-[Gettig Down in Town](towns)
+[Getting Down in Town](towns)
+
+[Draining the Swamp](drains)
