@@ -4,6 +4,9 @@
 
 Peat is the accumulated result of millennia worth of build up of fossilised organic compound. Importantly, there are two main groupings into which peat is categorised. Firstly, there are fens, which is peat that is exposed to mineralised and more alkaline groundwater, and therefore creates a lush, species-rich landscape, that can thrive off all of those minerals. The other, which in our area was much more abundant peat, is bog. It is fed only by rainwater, so is more acidic and less mineralised than fens, leading to less fertility. It’s pretty damn difficult stuff to get around in.
 
+| ![map](images/peatmoss.jpg) |
+| *Peat moss* |
+
 If you imagine a wet depression in the landscape, first there would be a layer of ground-water at the bottom of it, upon which fens would grow. Once the fens had grown high enough, it would become separated from the ground-water, at which point our current favourite thing, sphagnum, takes over. It grows up and out, filling and overflowing the depression in the landscape. What results are beautiful, rolling carpets of bog.
 
 ## Natural geography of the Netherlands
@@ -47,4 +50,4 @@ The initial interferences with nature very nearly resulted in the lowlanders dro
 
 More on this:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jU4RlNbqDsc?si=ShpMALfqeWGIQM31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/jU4RlNbqDsc?si=ShpMALfqeWGIQM31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
