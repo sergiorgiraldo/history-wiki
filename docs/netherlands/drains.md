@@ -47,4 +47,4 @@ The initial interferences with nature very nearly resulted in the lowlanders dro
 
 More on this:
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=jU4RlNbqDsc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jU4RlNbqDsc?si=ShpMALfqeWGIQM31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
