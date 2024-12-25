@@ -19,3 +19,5 @@
 [Getting Down in Town](towns)
 
 [Draining the Swamp](drains)
+
+[Wool Trade Left Its Mark on Power and Architecture in Medieval Flanders](wool)
