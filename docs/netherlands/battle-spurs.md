@@ -34,16 +34,16 @@ The Franco-Flemish truce concluded in 1300 and immediately the French invaded Fl
 
 Generally speaking, by the 1300s two factions had emerged within Flemish towns as a consequence of the previous decades of economic pressure and the French occupation. Leliaards were those in favour of continued loyalty to the French king, their name originating from the lilies on the coat of arms of the monarch. Liebaarts were pro-Flemish independence, their name coming from the lion/leopard of Flanders; black on a yellow shield.
 
-For a long time historians painted the Liebaard versus Leliaard conflict as a class war. From this perspective, Liebaarts were workers and Leliaards patricians, However, more recent understandings are that it is way more complicated than that, as history always is. Basically there were many different layers to these urban societies in the lowlands. Groups and individuals – from craft guilds, to non-patriciate nouveau riche, to foreign and local merchants, to governing patricians, to workers in different towns – would have just jostled around within and between the factions according to their own collective and/or individual interests.
+For a long time historians painted the Liebaard versus Leliaard conflict as a class war. From this perspective, Liebaards were workers and Leliaards patricians, However, more recent understandings are that it is way more complicated than that, as history always is. Basically there were many different layers to these urban societies in the lowlands. Groups and individuals – from craft guilds, to non-patriciate nouveau riche, to foreign and local merchants, to governing patricians, to workers in different towns – would have just jostled around within and between the factions according to their own collective and/or individual interests.
 
 Within each town the factions would have differed from their counterparts in other towns. In Bruges the Liebaarts leadership came from a weaver and a butcher, called Pieter de Coninck and Jan Breydel. They formed a nucleus from which the greatest push for Flemish liberty derived. In Ghent, however, the Liebaarts were quelled and the Leliaards chastened. The town would remain neutral throughout the coming conflict. Kortrijk was completely occupied by the French.
 
 ## The Bruges Matins
 
-Liebaart leaders, like Pieter de Conick and Jan Breydel, were expelled from Bruges in an attempt to appease the French occupiers. They would return the next night, on 18 May, joined not only by their supporters, but also by many others. Anti-French sentiment had gone from a spark to a bonfire overnight. Mob violence erupted, with many workers and anti-French sympathisers massacring anyone in Bruges supporting the French tyranny.
+Liebaard leaders, like Pieter de Conick and Jan Breydel, were expelled from Bruges in an attempt to appease the French occupiers. They would return the next night, on 18 May, joined not only by their supporters, but also by many others. Anti-French sentiment had gone from a spark to a bonfire overnight. Mob violence erupted, with many workers and anti-French sympathisers massacring anyone in Bruges supporting the French tyranny.
 
 | ![map](images/liebaart.jpg) |
-| *DStatue of Liebaart leaders Jan Breydel and Pieter de Coninck in Bruges* |
+| *Statue of Liebaard leaders Jan Breydel and Pieter de Coninck in Bruges* |
 
 Some French speakers tried to hide, or denied their francophilia. The rioters therefore demanded that they pronounce a Dutch phrase: Schild en Vriend (Shield and friend). If mispronounced, the mob showed no mercy. But it’s not just the French in town that had reason to fear. Some of the patriciate, members of the landowning elite who govern the town, were in alliance with the French, given that they saw more economic stability there than with the Flemish count.
 
