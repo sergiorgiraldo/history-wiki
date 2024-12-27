@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>{{ page.title }} - {{ site.title }}</title>
+		<style>
+			@import url("https://fonts.googleapis.com/css?family=Rubik:400,500,700,900");
+
+			body {
+				font-family: "Rubik", sans-serif;
+				font-size: medium;
+                margin-left: 3em;
+                margin-right: 3em;
+			}
+            blockquote {
+                font-weight: 500;
+            }
+            footer{
+                font-style: italic;
+                font-size: small;
+            }
+		</style>
+	</head>
+	<body>
+        <nav>
+            <a href="index.html">History Wiki</a>
+        </nav>
+		<main class="page-content">
+            {{ content }}
+        </main>
+        <hr />
+		<footer>
+			&copy; {{ "now" | date: "%Y" }} - S&eacute;rgio Rodrigues Giraldo
+			<br />
+			Powered by Jekyll
+		</footer>
+	</body>
+</html>

@@ -1,7 +1,7 @@
 {
 	"files.exclude": {
 		"**/__pycache__": true,
-        "_site":true
+        "_site":false
 	},
 	"livePreview.defaultPreviewPath": "/docs/brazil-tl.html"
 }

@@ -13,8 +13,8 @@ Fall of Sumer is generally taken to coincide with a major shift in population fr
 
 During the Akkadian and Ur III phases, there was a shift from the cultivation of wheat to the more salt-tolerant barley, but this was insufficient, and during the period from 2100 BC to 1700 BC, it is estimated that the population in this area declined by nearly three-fifths. This greatly upset the balance of power within the region, weakening the areas where Sumerian was spoken, and comparatively strengthening those where Akkadian was the major language. Henceforth, Sumerian remained only a literary and liturgical language, similar to the position occupied by Latin in medieval Europe.
 
-Following an Elamite invasion and sack of Ur during the rule of Ibbi-Sin (c. 2028–2004 BC),[citation needed] Sumer came under Amorite rule (taken to introduce the Middle Bronze Age). The independent Amorite states of the 20th to 18th centuries are summarized as the "Dynasty of Isin" in the Sumerian king list, ending with the rise of [Babylonia](babilonia) under Hammurabi c. 1800 BC.
+Following an Elamite invasion and sack of Ur during the rule of Ibbi-Sin (c. 2028–2004 BC), Sumer came under Amorite rule (taken to introduce the Middle Bronze Age). The independent Amorite states of the 20th to 18th centuries are summarized as the "Dynasty of Isin" in the Sumerian king list, ending with the rise of [Babylonia](babilonia) under Hammurabi c. 1800 BC.
 
-![mapa 1](sumermap.jpg)
+![mapa 1](images/sumermap.jpg)
 
-![mapa 2](sumermap2.jpg)
+![mapa 2](images/sumermap2.jpg)
