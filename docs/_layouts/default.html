@@ -24,16 +24,19 @@
 	</head>
 	<body>
         <nav>
-            <a href="index.html">History Wiki</a>
+            <a href="/index.html">History Wiki</a>
+            |
+            <a href="/netherlands/nl">Netherlands series</a>
         </nav>
 		<main class="page-content">
             {{ content }}
         </main>
+		<button onclick="window.scrollTo(0, 0);">Go to Top</button>
         <hr />
 		<footer>
 			&copy; {{ "now" | date: "%Y" }} - S&eacute;rgio Rodrigues Giraldo
 			<br />
-			Powered by Jekyll
+			Powered by <a href="https://github.com/sergiorgiraldo/history-wiki" target="_blank">Jekyll and GH pages</a>
 		</footer>
 	</body>
 </html>

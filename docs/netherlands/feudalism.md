@@ -1,7 +1,5 @@
 # Welcome to Family Feudalism
 
-[Netherlands series](nl)
-
 The disintegration of Charlemagne’s empire at the end of the 9th century left the lowlands part of a larger entity, Lotharingia, wedged between two much more powerful kingdoms, East and West Francia. If you were an ambitious noble, controlling one of the many small, swampy territories and you wished to move yourself up into a more prominent position, what would you do? Well, what lots of them chose to do was switch allegiances to and from between the great powers on either side whenever they deemed it politically necessary and beneficial to do so. Welcome to Family Feudalism!
 
 ## The role of the church
@@ -101,5 +99,3 @@ When William decided to invade England, Baldwin helped his son-in-law by providi
 This was a huge investment for Baldwin. He had an unusual position, but one that truly reflected the vagaries the political of his times. Stuck between France and Germany, dealing with the whims and wishes of those lands’ sovereigns, lowlander politics had to be about securing this tenuous position, while not being sucked in or absorbed by one of the larger neighbours. The nobles in the Imperial lowlands fought for this against the Emperor, and the counts of Flanders, obliged to the French kings, positioned themselves against losing their identity to France.
 
 Baldwin could have likely put a stop to William the Bastard’s transition into William the Conqueror, had he so wished. The count of Flanders was now pretty much in charge of France, and it was in no way in France’s interest to have one of its vassals go and take over England and all of its resources. But Baldwin deemed that it was in the best interests of Flanders. He actively facilitated this world-changing event. From this point, this constant ebbing and flowing of power across this north-western swampy part of Europe would not only include the sovereigns of France and Germany, but England would also gradually come into the fray, creating another potential rival or ally, which would leave a lasting impression on the history of the Netherlands.
-
-<button onclick="window.scrollTo(0, 0);">Go to Top</button>

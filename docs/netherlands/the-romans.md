@@ -1,7 +1,5 @@
 # What have the Romans ever done for us?
 
-[Netherlands series](nl)
-
 Throughout history, the Low Countries would often be defined by their interactions with great powers nearby. This began when those in charge of the original European superpower, Rome, decided that the border of the empire would be the Rhine river, running right through the heart of our beloved swamp. One lowlander tribe, the Batavians, would learn the hard way that when you find yourself, your land and your people are now “in Rome”, it’s better to just do as the Romans do.
 
 Rivers were, and still are, very important to the development of society. Rivers carry boats, and boats carry people. People drive the movement of goods and wealth. In the ancient past, ships on rivers required safe harbour, providing incentive for towns to develop, charging tolls in exchange for this. As people went from port to port, via rivers, carrying goods, they also carried news, knowledge and ideas, which would be exchanged with others along the way. Taverns and inns played an important role for diffusion of knowledge, much like the way the internet does today.
@@ -47,5 +45,3 @@ Not only was the population disproportionately recruited into the army, Roman of
 Civilis would defeat the Roman army of 6500 men, expelling the Roman forces from their lands and pursuing Batavian autonomy. Although the Batavians would eventually be defeated and incorporated back into the Roman empire, over the next centuries cracks in the stability of Roman power in the region only continued to widen. Germanic tribes would continue do what Germanic tribes did: move, reproduce, fight, move some more and reproduce a little bit more.
 
 As the Western Roman Empire started completely crumbling in the 400s CE, the influence of Roman institutions, trade and culture over the lowlands, Gaul, Belage and Germania disappeared. With the Roman collapse a void would be filled by different people, emerging out of the lowlands, called the Salian Franks. They will come to dominate the erroneously named ‘Dark Ages’.
-
-<button onclick="window.scrollTo(0, 0);">Go to Top</button>

@@ -1,7 +1,5 @@
 # The Battle of the Golden Spurs Set Flanders Free
 
-[Netherlands series](nl)
-
 By the late 1200s, many of the social trends and forces, such as feudalism, urbanisation and industrialisation, came to a boiling point in Flanders. The political relations between the Counts of Flanders and their liege lord, the king of France, became further complicated by Flanders’ dependence on English wool. That wool upheld the strength and influence of the major urban centres, particularly the so-called “Big 5” – Bruges, Ghent, Ypres, St Omer and Kortrijk. Towns, within their walls, were governed by an urban patriciate who were not of the nobility, but who were wealthy and influential enough to contend with the nobility and the counts of Flanders. The urban patriciate, however, did not sit comfortably in power themselves. Craft guilds had developed to foster bodies of workers who did not have governmental representation in towns, but who could bring pressure on the functioning of the industry through actions such as strikes and riots.
 
 | ![map](images/dampierre.jpg) |
@@ -132,5 +130,3 @@ This was the first known battle in history where an army of foot soldiers defeat
 | *Fragment of a wall painting from Bruges Town Hall. People of Bruges greet the commanders of the Flemish troops after their victory over the French* |
 
 The effects of the battle rippled out over Europe. Even the pope, Boniface VII, was woken from his heavenly slumber, such was the importance of the news. It was thought to have been impossible that such a military engagement could yield such a result. Yet it did. Shortly after the battle Liebaarts established themselves in power in all the Flemish towns, including previously neutral Ghent, and from this time onwards the guilds, who had fought so viciously in the battle, would establish themselves in positions of power on town councils. Although the French would strike back against Flanders in the coming years, and there would be plenty more fighting between both parties, the medieval County of Flanders would not be annexed by the French again. The conflict between Liebaart and Lelieaart factions would be echoed in the various territories of the low countries over the next two centuries, as guilds and their militias clashed with nobility and the urban elite, just as they had done in Flanders.
-
-<button onclick="window.scrollTo(0, 0);">Go to Top</button>

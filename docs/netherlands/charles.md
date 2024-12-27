@@ -1,7 +1,5 @@
 # Charles in Charge
 
-[Netherlands series](nl)
-
 In the latter half of the 8th century, events and circumstances around Europe become vastly influenced by a man who ruled a huge empire from his capital city of Aachen, just a stone’s throw away from the lowlands. This man is almost single-handedly responsible for the name Charles being as popular as it is today. But this Charles was, apparently, greater than the rest, and so he gets to be called Charlemagne in French, Karl der Große in German, Carlo Magno in Italian, Karel de Grote in Dutch, or simply just Charles the Great in English.
 
 ## Charlemagne’s Rise to Power
@@ -35,5 +33,3 @@ For now, however, by the end of the 9th century Charlemagne’s empire was split
 | *Europe by 900 CE* |
 
 From now on, the identity to emerge in the lowlands amongst individuals and groups will be impacted by the ebb and flow of power between the two larger states on its flanks - East and West Francia, France and Germany.
-
-<button onclick="window.scrollTo(0, 0);">Go to Top</button>

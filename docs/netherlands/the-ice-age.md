@@ -1,7 +1,5 @@
 # The Ice Age
 
-[Netherlands series](nl)
-
 The biggest and most enduring major geographical event to shape the lowlands happened between 250k and 130k BCE, during the Pleistocene Epoch. During this period of glaciation, large parts of the region were covered in ice, which made a large impact on the land beneath it. The glaciers created hills in the north and the south of what would, thousands of years later, become the border between the Netherlands and Germany. Valleys emerged, which would eventually enable rivers to run from the higher lands in the south to feed into what is now the North Sea.
 
 | ![map](images/Pleistocenemapbenelux.png) |
@@ -32,5 +30,3 @@ At its core, the struggle against water created an ever present understanding in
 2 major takeways from this early history:
 (1) How the cultural impression of living in flood risk lands would fortify the people of the lowlands for years to come;
 (2) how the people who inhabit these wet, peaty lands dealt with their various, much bigger and generally more powerful neighbours. From early on, and forever more, the people of this swamp needed to learn how to adapt not only to the vagaries of the rivers and the sea, but to the political and cultural heavyweights that it will always be surrounded by. This is clear when we look at the impact made on the lowlands by the rise and domination of the [Romans](../Romans).
-
-<button onclick="window.scrollTo(0, 0);">Go to Top</button>

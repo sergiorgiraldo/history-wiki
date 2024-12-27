@@ -1,7 +1,5 @@
 # Wool Trade Left Its Mark on Power and Architecture in Medieval Flanders
 
-[Netherlands series](nl)
-
 First, you are shorn off the sheep’s back. The wool comes in a variety of textures, a gradient from coarse to fine, and fibres differing in length. Even wool from the same sheep can differ. So after you’re shorn off, you and your diverse woollen friends are sorted by coarseness – varying qualities being destined for different destinations and textile purposes. You are passed between manual labourers. The shearers, packers and cart-drivers are commoners, who will take any job they can get. You are then packed up and carted off to a nearby marketplace, or even straight on a ship to be taken directly to the destination where pretty much all wool in this part of Europe is taken: to one of the cloth-making towns of Flanders.
 
 Here, more unskilled labourers unpack you and begin the cleaning process, using a chemical bath to take away oils and grease. After this comes the beating, where you are strung up and hit with willow branches, removing residual foreign matter and disentangling remaining knots. You really enjoy the beating, you dirty wool, you. At this stage, you may be dyed for the first time. If so, you have become ‘dyed in the wool’ – so to speak – where preliminary colouration is achieved, most often by use of woad, a plant whose extract turns things blue, or madder, which produces rosy red. Blue woad is the more common, however, and leaves the most lasting impression. Those who work as dyers are often identified by their blue hands for this reason.
@@ -74,5 +72,3 @@ The architecture of Bruges and other cloth towns began to reflect the new econom
 Bruges famously had a giant, wooden, treadwheel crane that looked like the Sandcrawler used by the Jawas on Tattooine. The treadwheel crane would be powered by people walking in a kind of giant hamster wheel, which would provide the energy needed for the crane to lift goods and shift them around. It became a famous sight to behold for people visiting the city.
 
 Guild houses were built, where the administration of the different guilds was carried out and where members would meet. The largest was the cloth hall, in which the overseas trade was arranged, funded by the wealth brought in by all these international visitors. The guildhalls were the centre of everything in town, like prototype town halls. Now, within the cultural framework of the lowlands, there were legitimately civic buildings; a place in the town centre which could be a focal point for the town’s identity, that was not a church nor a castle, but a reflection of the people and the business of the town.
-
-<button onclick="window.scrollTo(0, 0);">Go to Top</button>

@@ -1,7 +1,5 @@
 # Getting Down in Town
 
-[Netherlands series](nl)
-
 Freed from the need to be working the land due to the improvements in agriculture, people in the Low Countries began congregating in urban centres. For the first time, members of the common class were able to put their fingers onto the scales of power, and begin to balance it back in their favour by making city charters. But the creation of a new body politic in the 11th century would not be without its adversaries, nor without its consequences.
 
 ## Leaving the countryside and clearing forests
@@ -81,5 +79,3 @@ He started granting privileges to the wealthiest, most productive towns of Fland
 City rights included the permission to build a wall; having a marketplace; having their own court and trials; having the right to charge tolls; the right to levy taxes and to mint coins. Once accumulated these all made the towns stronger, able to regulate the commerce within their boundaries and to be of benefit to the count’s ability to get taxes for himself.
 
 In terms of how our modern world has developed, town citizens gaining the right to be tried according to reason, by a town jury, rather than face the arbitrary judgment of the nobility, is perhaps the most important development of this era. Gaining some level of control of judicial processes within the town, having the means to regulate the marketplace and acquiring rights for citizens of towns to defend themselves and make decisions for themselves are components that define modern societies today. Before this time, the feudal system had forced most people to be stuck in bondage, tied to the land and totally deprived of any kind of political rights. With the rise of towns during this period of urbanization, non-noble people were for the first time able to put their fingers onto the scales of power, and at least begin to balance it in their favour.
-
-<button onclick="window.scrollTo(0, 0);">Go to Top</button>
