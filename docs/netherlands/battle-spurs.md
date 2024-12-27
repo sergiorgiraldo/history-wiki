@@ -36,7 +36,7 @@ Generally speaking, by the 1300s two factions had emerged within Flemish towns a
 
 For a long time historians painted the Liebaard versus Leliaard conflict as a class war. From this perspective, Liebaards were workers and Leliaards patricians, However, more recent understandings are that it is way more complicated than that, as history always is. Basically there were many different layers to these urban societies in the lowlands. Groups and individuals – from craft guilds, to non-patriciate nouveau riche, to foreign and local merchants, to governing patricians, to workers in different towns – would have just jostled around within and between the factions according to their own collective and/or individual interests.
 
-Within each town the factions would have differed from their counterparts in other towns. In Bruges the Liebaarts leadership came from a weaver and a butcher, called Pieter de Coninck and Jan Breydel. They formed a nucleus from which the greatest push for Flemish liberty derived. In Ghent, however, the Liebaarts were quelled and the Leliaards chastened. The town would remain neutral throughout the coming conflict. Kortrijk was completely occupied by the French.
+Within each town the factions would have differed from their counterparts in other towns. In Bruges the Liebaards leadership came from a weaver and a butcher, called Pieter de Coninck and Jan Breydel. They formed a nucleus from which the greatest push for Flemish liberty derived. In Ghent, however, the Liebaards were quelled and the Leliaards chastened. The town would remain neutral throughout the coming conflict. Kortrijk was completely occupied by the French.
 
 ## The Bruges Matins
 
