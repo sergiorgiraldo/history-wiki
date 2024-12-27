@@ -19,7 +19,7 @@ Fortifications such as castles had been built as defensive measures, and ranks o
 
 By the 1020s, this non-Chrisian behaviour of the castellans came to clash with the rising confidence and social influence of the clergy, given their ever more entrenched high moral standing across all classes of society. A movement to establish what was known as the Peace and Truce of God sprung up, mainly in Flanders. This led to a religious revival, with many ordinary people participating in the erecting of new churches, as well as processions in which people, regardless of their rank, would walk barefoot behind images of the Virgin Mary.  The clergy used their presence, as well as anything at their disposal, like relics and bibles, to try and end disputes, even between armies. Apparently at the sight of a priest clutching a bible, people would suddenly forget what they were fighting about, and lay down their arms. They also tried to hold the abusive lower nobility, like castellans, to account for their exploitations of the people.
 
-It was this first real flexing of its muscles in Western Europe which began to establish the church as a power base that would gradually break away from the direct influence of the upper nobility. 
+It was this first real flexing of its muscles in Western Europe which began to establish the church as a power base that would gradually break away from the direct influence of the upper nobility.
 
 ## Bayeux tapestry
 
