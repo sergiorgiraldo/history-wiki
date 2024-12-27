@@ -1,5 +1,7 @@
 # Ploughin' Forward
 
+[Netherlands series](nl)
+
 Only a tiny minority of people who lived around the end of the first millennium of the Common Era would have been directly concerned with the conflicts with neighbours. For most people in the lowlands, it didn’t matter who their count or duke or emperor was. For them, life was nasty, brutish and short, and involved an overwhelming amount of backbreaking manual labour. But an agricultural revolution changed the life for these peasants forever.
 
 ## Church Developments
@@ -59,3 +61,5 @@ The common, working folk began ploughing three separate fields, instead of two. 
 Bumper crops eventuated. With big yields of oat and grain, there was now enough fodder to feed the horses, who could now almost fully replace oxen in pulling the heavy ploughs over bigger distances, which could then be turned into tri-rotating crops, which could produce bigger yields. Furthermore, this could all be done with less manpower.
 
 The excess of manpower and the surplus of goods left a whole lot of people with not much to do, and little chance of making a living. Those people had to go somewhere and do something, which leads to the phenomenon of urbanisation in the lowlands.
+
+<button onclick="window.scrollTo(0, 0);">Go to Top</button>

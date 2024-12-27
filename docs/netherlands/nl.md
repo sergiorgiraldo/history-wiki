@@ -21,3 +21,5 @@
 [Draining the Swamp](drains)
 
 [Wool Trade Left Its Mark on Power and Architecture in Medieval Flanders](wool)
+
+[The Battle of the Golden Spurs Set Flanders Free](battle-spurs)
