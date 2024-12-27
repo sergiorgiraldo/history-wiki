@@ -63,7 +63,6 @@ Being a knight was expensive. First of all you needed a war horse, preferably a 
 
 As this was a violent era, there was a very high chance that your life would end at the point of a sword, so you also needed to be skilled in battle if you were going to survive long enough to try and move up the feudal ladder. On top of regular training, knights would take part in tournaments. Tournaments would be grand affairs that would be hosted by lords in the grounds outside of castles. Here, knights were invited to take part in war games in which they could demonstrate their military prowess, often through a melee, or by jousting. A melee would either consist of two teams of horsemen clashing into each other and trying to break each other’s ranks, or an all-in battle royale in which knights would fight either on foot or on horseback. The aim would be to defeat your opponent and hold them for ransom, a nice way to make back some of the many costs which being a knight incurred. Jousting saw two knights on horseback charging at each other with their lances levelled, trying to smash the opponent off their horse. At the end of the tournament, huge feasts would be held and prizes would be awarded to the bravest and best fighters.
 
-
 The French word for a knight is chevalier, and it is from this that the word chivalry derives. The idea of chivalry developed around the 11-1200s, often encouraged by the Church, to try and moderate military bloodlust and promote some kind of ethics within warfare. So knights would be bound by oath to honour their overlord, and were encouraged to take prisoners rather than kill unarmed opponents. We’ve already mentioned an early example of this in [the text about feudalism](feudalism), which tried to limit the abuses knights would inflict on commoners. It was for chivalric reasons that knights would try to not kill each other, not only in tournaments, but also in battle. If an opposing army was routed, knights would often prefer to capture their opponents and hold them for ransom, rather than finish each other off. This, along with many other aspects of feudal society, helped to develop a kind of knightly arrogance, in which they would see each other as “above” the commoners. Commoners could be ridden down with no issue, but other knights? No, they were like you, and they deserved honour and mercy.
 
 >Knights would be bound by oath to honour their overlord, and were encouraged to take prisoners rather than kill unarmed opponents
@@ -82,7 +81,8 @@ has gone down in history as the weapon which the commoners of Bruges managed to 
 | ![map](images/goedendag.jpg) |
 | *The metal tip of a 'goedendag'* |
 
-The Battle of the Golden Spurs
+## The Battle of the Golden Spurs
+
 Following the Matins of Bruges on 18 May 1302, a line had been drawn in the boggy Flemish mud. The pressure-building years of to-ing and fro-ing between the various agendas of all interested parties had come to a boiling point. For people in Flanders who were pro-Flemish independence, a statement had been made and very quickly almost all of the towns, Ghent being the major exception, joined in the rebellion.
 
 People of all classes had no choice but to join in, because of how serious the situation had become. There was no way Philip IV of France was going to hear about the massacre in Bruges and the riled up Flemish towns, sit back, and ponderously consider giving concessions to anyone. Instead, he was going to do what he had consistently done for years, and send his forces in to, once again, bring the Flemish to heel.
