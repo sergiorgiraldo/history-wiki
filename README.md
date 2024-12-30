@@ -4,7 +4,6 @@
 - mindmap is generated on each commit, see the pre-commit hook
 - timeline with mark-when
 
-
 ## commands
 
 1. `./run`
