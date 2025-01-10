@@ -40,7 +40,11 @@
 
 | 27 - Imperio romano - inicio
 
+|
+
 | ↑ a.C - 0 - d.C ↓
+
+|
 
 | 325 - Cristianismo - Conselho de Niceia
 
