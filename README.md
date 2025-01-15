@@ -1,6 +1,6 @@
 # History wiki
 
-- this runs on Jekyll and it is published as GH pages
+- this runs on Jekyll and it is published as  GH pages
 - mindmap is generated on each commit, see the pre-commit hook
 - timeline with mark-when
 
