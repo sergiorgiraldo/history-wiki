@@ -33,6 +33,8 @@ O termo “otomano” deriva do nome Osman I, o fundador do império. Em árabe,
 
 O Império Otomano teve suas origens nas pequenas tribos turcomanas que habitavam a Anatólia. No final do século XIII, sob a liderança de Osman I, essas tribos começaram a se expandir e a consolidar seu poder. A localização estratégica da Anatólia, entre a Europa e a Ásia, facilitou a expansão territorial e a integração de diversas culturas e povos.
 
+![Mapa da Anatolia](images/anatolia.jpg)
+
 A conquista de Constantinopla, em 1453, por Mehmed II, foi um marco significativo que estabeleceu o Império Otomano como uma potência dominante na região."
 
 ## Quais países faziam parte do Império Otomano?
