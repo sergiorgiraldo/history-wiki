@@ -60,10 +60,17 @@ Floris was succeeded by his son John, but he died at 15, leaving no heirs. Thus 
 ## Poem about Floris V, from Edward Grimestone’s Generall Historie of the Netherlands,  (1615)
 
 *In just revenge of fathers death thou spild'st the blood*
+
 *Of Frisons, that had him destroid, and thee withstood:*
+
 *And having taken his bodie from the place where't lay,*
+
 *Intombedst it in Middleburgh, from whence thou took'st thy way*
+
 *To Flanders, to abate their pride, that quietly*
+
 *Gave thee their princesse for thy spouse, and for her dower
+
 *Whole Flanders: but when thou to hunt in woods wast gone,*
+
 *Thy foes thee slue, when thou hadst rul'd full fortie yeares and one.*
